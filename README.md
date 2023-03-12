@@ -9,7 +9,7 @@
 
 [![GameApiTools](https://github-readme-stats.vercel.app/api/pin/?username=Blessing-Studio&repo=GameApiTools&theme=tokyonight)](https://github.com/Blessing-Studio/GameApiTools)
 
-## 👀 About we
+## 👀 About us
 
 ![About hei-shou](https://github-readme-stats.vercel.app/api?username=hei-shou&count_private=true&show_icons=true&theme=tokyonight)
 
